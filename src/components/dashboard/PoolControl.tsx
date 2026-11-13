@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useState } from 'react';
-import { useCallback, useEffect, useState } from 'react';
 import { request } from '../../utils/request';
 import { useAccountStore } from '../../stores/useAccountStore';
 import { isTauri } from '../../utils/env';
